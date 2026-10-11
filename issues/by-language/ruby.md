@@ -1,10 +1,10 @@
 # Ruby issues
 
-**87** open issues (63 labeled for beginners) across **31** active Ruby projects.
+**86** open issues (62 labeled for beginners) across **31** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 22:00 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -98,4 +98,3 @@
 | [Missing translations](https://github.com/openfoodfoundation/openfoodnetwork/issues/3681) | [openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) | 1.3k | 🟡 help wanted | 2026-04-22 |  |
 | [Allow priority to be globally disabled/ignored](https://github.com/bensheldon/good_job/issues/1065) 💬 2 | [bensheldon/good_job](https://github.com/bensheldon/good_job) | 3k | 🟡 help wanted | 2026-04-17 |  |
 | [[UI] Add data elements to indexes, tables, and partials](https://github.com/e621ng/e621ng/issues/1829) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 579 | 🟢 beginner | 2026-04-15 |  |
-| [Add ArkScript language](https://github.com/github-linguist/linguist/issues/5416) 💬 2 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-04-14 |  |

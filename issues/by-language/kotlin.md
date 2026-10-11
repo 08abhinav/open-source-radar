@@ -1,10 +1,10 @@
 # Kotlin issues
 
-**170** open issues (64 labeled for beginners) across **75** active Kotlin projects.
+**170** open issues (65 labeled for beginners) across **76** active Kotlin projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/kotlin.xml)
 
-> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 22:00 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,6 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Unable to enter commands in console](https://github.com/mpv-android/mpv-android/issues/1145) 💬 2 | [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) | 3.6k | 🟡 help wanted | 2026-10-11 |  |
+| [向你设敬🫡🫡🫡](https://github.com/aquamarine5/ChaoxingSignFaker/issues/224) 💬 1 | [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker) | 712 | 🟢 beginner | 2026-10-11 |  |
 | [Testers wanted for "Google Closed Testing"](https://github.com/aj3423/SpamBlocker/issues/664) 💬 49 | [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) | 1.9k | 🟡 help wanted | 2026-10-09 |  |
 | [Alarm not showing when ringing](https://github.com/you-apps/ClockYou/issues/617) 💬 4 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou) | 678 | 🟡 help wanted | 2026-10-09 |  |
 | [Wording alignment is off for terms in multiple scripts](https://github.com/streetcomplete/StreetComplete/issues/6778) 💬 14 | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k | 🟡 help wanted | 2026-10-08 |  |
@@ -37,8 +38,8 @@
 | [Sign in With Google either crashes or has no effect](https://github.com/thunderbird/thunderbird-android/issues/8697) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
 | [Please don't open issues about adding settings for very small behavior changes](https://github.com/libre-tube/LibreTube/issues/8465) 💬 34 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 12.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Add Declarative KSP for MCP Server](https://github.com/modelcontextprotocol/kotlin-sdk/issues/102) 💬 7 | [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) | 1.5k | 🟡 help wanted | 2026-09-30 |  |
-| [SoundCloud Integration](https://github.com/MuwMx/YumaPlayer/issues/87) 💬 1 | [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) | 729 | 🟡 help wanted | 2026-09-29 |  |
-| [Separate Grid Item Settings for the Dock](https://github.com/T31n/YagniLauncher/issues/1058) | [T31n/YagniLauncher](https://github.com/T31n/YagniLauncher) | 673 | 🟢 beginner | 2026-09-27 |  |
+| [SoundCloud Integration](https://github.com/MuwMx/YumaPlayer/issues/87) 💬 1 | [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) | 734 | 🟡 help wanted | 2026-09-29 |  |
+| [Separate Grid Item Settings for the Dock](https://github.com/T31n/YagniLauncher/issues/1058) | [T31n/YagniLauncher](https://github.com/T31n/YagniLauncher) | 674 | 🟢 beginner | 2026-09-27 |  |
 | [Add rule 'ReplaceTryFinallyWithUse'](https://github.com/detekt/detekt/issues/8900) 💬 7 | [detekt/detekt](https://github.com/detekt/detekt) | 7.1k | 🟡 help wanted | 2026-09-25 | 📄 AI policy |
 | [[Feature]: Add LADB / Direct Wireless Debugging backend option](https://github.com/kitsumed/ShizuCallRecorder/issues/97) 💬 2 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-09-25 | 🤖 disclose AI use |
 | [Bad column rendering in mails](https://github.com/thunderbird/thunderbird-android/issues/9455) 💬 12 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use |
@@ -59,8 +60,8 @@
 | [Repeat entry of phone pin to reveal imap/smtp password on Android 16 but not 10](https://github.com/thunderbird/thunderbird-android/issues/11565) 💬 2 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [Incorrect numbering when saving duplicate attachments for application/octet-stream attachments](https://github.com/thunderbird/thunderbird-android/issues/9141) 💬 9 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Select current server URL when Server URL configuration dialog is launched](https://github.com/getodk/collect/issues/4574) 💬 12 | [getodk/collect](https://github.com/getodk/collect) | 793 | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
-| ['androidCompileSdkExtension = "-"' silently becomes null, hiding the intended SDK extension level](https://github.com/wangzhishou/OneBox/issues/20) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 681 | 🟢 beginner | 2026-09-16 |  |
-| ["universal" ABI flavor produces identical APK to "arm64" — misleading name and wasted build time](https://github.com/wangzhishou/OneBox/issues/19) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 681 | 🟡 help wanted | 2026-09-16 |  |
+| ['androidCompileSdkExtension = "-"' silently becomes null, hiding the intended SDK extension level](https://github.com/wangzhishou/OneBox/issues/20) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 688 | 🟢 beginner | 2026-09-16 |  |
+| ["universal" ABI flavor produces identical APK to "arm64" — misleading name and wasted build time](https://github.com/wangzhishou/OneBox/issues/19) 💬 1 | [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) | 688 | 🟡 help wanted | 2026-09-16 |  |
 | [Map maintenance with overlays](https://github.com/streetcomplete/StreetComplete/issues/4735) 💬 14 | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k | 🟡 help wanted | 2026-09-14 |  |
 | [[Account setup] Display "warning" message when using POP3](https://github.com/thunderbird/thunderbird-android/issues/7551) 💬 5 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use |
 | [Investigate in which case 'originalMessage.from' can be either null or empty on 'TextQuoteCreator.prefixQuoteT](https://github.com/thunderbird/thunderbird-android/issues/10610) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
@@ -125,7 +126,7 @@
 | [coVerify fails when running multiple tests but succeeds if the test is run alone](https://github.com/mockk/mockk/issues/932) 💬 4 | [mockk/mockk](https://github.com/mockk/mockk) | 5.8k | 🟡 help wanted | 2026-08-19 |  |
 | [core: Android多用户存储在Native下无法正确读写](https://github.com/Aliothmoon/MAA-Meow/issues/3) 💬 2 | [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) | 1.6k | 🟡 help wanted | 2026-08-18 |  |
 | [Adjusting the view with the dialog box open a screensaver will begin playing underneath it](https://github.com/damontecres/Wholphin/issues/1769) 💬 1 | [damontecres/Wholphin](https://github.com/damontecres/Wholphin) | 3k | 🟢 beginner | 2026-08-12 | 🤖 disclose AI use |
-| [[Feature Request] Auto-capitalisation](https://github.com/fcitx5-android/fcitx5-android/issues/283) 💬 4 | [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) | 5.7k | 🟢 beginner | 2026-08-09 |  |
+| [[Feature Request] Auto-capitalisation](https://github.com/fcitx5-android/fcitx5-android/issues/283) 💬 4 | [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) | 5.8k | 🟢 beginner | 2026-08-09 |  |
 | [Cannot grant SAF access (Android 15)](https://github.com/TeamAmaze/AmazeFileManager/issues/4352) 💬 1 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.4k | 🟡 help wanted | 2026-08-05 |  |
 | ["On device" window does not change](https://github.com/nextcloud/android/issues/9538) 💬 3 | [nextcloud/android](https://github.com/nextcloud/android) | 5.6k | 🟢 beginner | 2026-08-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Bug: switching from #mesh to a geohash channel sometimes fails](https://github.com/permissionlesstech/bitchat-android/issues/321) 💬 3 | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) | 7.8k | 🟡 help wanted | 2026-07-30 | 🤖 disclose AI use |
@@ -133,7 +134,7 @@
 | [Use account image for "K-9 Accounts" widget](https://github.com/thunderbird/thunderbird-android/issues/7906) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟢 beginner | 2026-07-29 | 🤖 disclose AI use |
 | [File extension k9s seems not registered in android](https://github.com/thunderbird/thunderbird-android/issues/3562) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14.1k | 🟢 beginner | 2026-07-29 | 🤖 disclose AI use |
 | [Improve Privacy Policy to explain Google Play Data Sharing](https://github.com/ankidroid/Anki-Android/issues/18413) 💬 23 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12k | 🟡 help wanted | 2026-07-26 | 🤖 disclose AI use |
-| [[Serious Bug] App crashes (SIGSEGV) when switching to a new video too quickly](https://github.com/mpvRex/REX-Player/issues/216) 💬 3 | [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 751 | 🟡 help wanted | 2026-07-26 |  |
+| [[Serious Bug] App crashes (SIGSEGV) when switching to a new video too quickly](https://github.com/mpvRex/REX-Player/issues/216) 💬 3 | [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 753 | 🟡 help wanted | 2026-07-26 |  |
 | [Allow using a custom Hub with SentryTraced for Jetpack Compose](https://github.com/getsentry/sentry-java/issues/2668) 💬 7 | [getsentry/sentry-java](https://github.com/getsentry/sentry-java) | 1.4k | 🟢 beginner | 2026-07-24 |  |
 | [Crash on HW decoder on AV1 videos](https://github.com/mpv-android/mpv-android/issues/1213) 💬 7 | [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) | 3.6k | 🟡 help wanted | 2026-07-21 |  |
 | [How to activate adb write?](https://github.com/T31n/Geto/issues/372) | [T31n/Geto](https://github.com/T31n/Geto) | 1.3k | 🟡 help wanted | 2026-07-19 |  |
@@ -159,10 +160,10 @@
 | [Android TV Support](https://github.com/HeliBorg/HeliBoard/issues/416) 💬 6 | [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) | 6.3k | 🟡 help wanted | 2026-06-11 |  |
 | [Figure out why interrupt bug wasn't caught by tests](https://github.com/JakeWharton/mosaic/issues/1019) 💬 1 | [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) | 2.8k | 🟡 help wanted | 2026-06-06 |  |
 | [Encryption passphrase regenerates when you switch apps](https://github.com/nextcloud/android/issues/11571) 💬 3 | [nextcloud/android](https://github.com/nextcloud/android) | 5.6k | 🟢 beginner | 2026-06-03 | 🤖 disclose AI use · 🔏 DCO |
-| [锁屏情况下能否帮忙解锁，并打开应用打卡，虽然是锁屏，不过没有密码](https://github.com/AndroidCoderPeng/DailyTask/issues/65) 💬 4 | [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) | 1.8k | 🟡 help wanted | 2026-06-02 |  |
+| [锁屏情况下能否帮忙解锁，并打开应用打卡，虽然是锁屏，不过没有密码](https://github.com/AndroidCoderPeng/DailyTask/issues/65) 💬 4 | [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) | 1.9k | 🟡 help wanted | 2026-06-02 |  |
 | [Add Libretro cheats support](https://github.com/Swordfish90/Lemuroid/issues/119) 💬 6 | [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) | 4.4k | 🟡 help wanted | 2026-05-24 |  |
 | [Create an option to automatically export settings, when they change, to the last selected note for that purpos](https://github.com/orgzly-revived/orgzly-android-revived/issues/945) 💬 1 | [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) | 1.1k | 🟢 beginner | 2026-05-23 |  |
-| [[Bug] No longer see files/folders within secure folder](https://github.com/leonlatsch/Photok/issues/678) 💬 5 | [leonlatsch/Photok](https://github.com/leonlatsch/Photok) | 978 | 🟢 beginner | 2026-05-21 |  |
+| [[Bug] No longer see files/folders within secure folder](https://github.com/leonlatsch/Photok/issues/678) 💬 5 | [leonlatsch/Photok](https://github.com/leonlatsch/Photok) | 979 | 🟢 beginner | 2026-05-21 |  |
 | [Queue UI requests from page fragments while app in background](https://github.com/ankidroid/Anki-Android/issues/15706) 💬 3 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12k | 🟡 help wanted | 2026-05-20 | 🤖 disclose AI use |
 | [Configurable number of snapshots to keep](https://github.com/seedvault-app/seedvault/issues/977) 💬 2 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) | 1.9k | 🟡 help wanted | 2026-05-18 |  |
 | [NAT66 eBPF mode](https://github.com/Mygod/VPNHotspot/issues/728) | [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) | 6.6k | 🟡 help wanted | 2026-05-15 |  |
@@ -173,7 +174,7 @@
 | [Support for third_party_licenses files from Google Play Services libraries](https://github.com/mikepenz/AboutLibraries/issues/824) 💬 16 | [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) | 4.5k | 🟡 help wanted | 2026-05-10 |  |
 | [Add Debian package manager plugin](https://github.com/oss-review-toolkit/ort/issues/11263) 💬 8 | [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | 2.1k | 🟡 help wanted | 2026-05-10 | 🤖 disclose AI use |
 | [Improve Threat Matrix](https://github.com/doyensec/inql/issues/220) | [doyensec/inql](https://github.com/doyensec/inql) | 1.8k | 🟢 beginner | 2026-05-07 |  |
-| [请问如果需要人脸识别才能打卡的话，这个软件还适用吗](https://github.com/AndroidCoderPeng/DailyTask/issues/67) 💬 1 | [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) | 1.8k | 🟡 help wanted | 2026-05-06 |  |
+| [请问如果需要人脸识别才能打卡的话，这个软件还适用吗](https://github.com/AndroidCoderPeng/DailyTask/issues/67) 💬 1 | [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) | 1.9k | 🟡 help wanted | 2026-05-06 |  |
 | [Opening "On device" menu causes "All files" to open "On device" the first time](https://github.com/nextcloud/android/issues/9668) 💬 4 | [nextcloud/android](https://github.com/nextcloud/android) | 5.6k | 🟢 beginner | 2026-05-04 | 🤖 disclose AI use · 🔏 DCO |
 | [Google killing freedom android](https://github.com/alexch33/super-video-downloader/issues/231) 💬 1 | [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) | 957 | 🟡 help wanted | 2026-05-04 |  |
 | [Translations for upcoming release](https://github.com/libre-tube/LibreTube/issues/8314) 💬 1 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 12.8k | 🟡 help wanted | 2026-04-20 |  |
@@ -181,4 +182,3 @@
 | [Refactor: rename 'toggle' key actions](https://github.com/dessalines/thumb-key/issues/1678) 💬 1 | [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1.6k | 🟢 beginner | 2026-04-20 |  |
 | [Up/Down cursor key in keyAction](https://github.com/dessalines/thumb-key/issues/1838) 💬 1 | [dessalines/thumb-key](https://github.com/dessalines/thumb-key) | 1.6k | 🟢 beginner | 2026-04-20 |  |
 | [fail to load disk-cached webp image after terminating and restart app](https://github.com/facebook/fresco/issues/2534) 💬 1 | [facebook/fresco](https://github.com/facebook/fresco) | 17.2k | 🟡 help wanted | 2026-04-17 | ✍️ CLA |
-| [New quest: Oneway on separate cycleways](https://github.com/streetcomplete/StreetComplete/issues/4827) 💬 84 | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 5k | 🟡 help wanted | 2026-04-15 |  |

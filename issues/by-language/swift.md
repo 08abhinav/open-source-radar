@@ -1,10 +1,10 @@
 # Swift issues
 
-**100** open issues (46 labeled for beginners) across **56** active Swift projects.
+**101** open issues (46 labeled for beginners) across **56** active Swift projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 22:00 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,14 +12,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [CLI contract omits iOS Simulator and mobile namespaces](https://github.com/manaflow-ai/cmux/issues/15696) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.1k | 🟡 help wanted | 2026-10-11 | 📄 AI policy · ✍️ CLA |
 | [0.64.25 auto-set NODE_OPTIONS kills node](https://github.com/manaflow-ai/cmux/issues/15950) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.1k | 🟡 help wanted | 2026-10-11 | 📄 AI policy · ✍️ CLA |
 | [CPU Power Showing 0.00W](https://github.com/exelban/stats/issues/3621) 💬 10 | [exelban/stats](https://github.com/exelban/stats) | 42.5k | 🟡 help wanted | 2026-10-10 |  |
 | [Add support for Embedded Swift](https://github.com/swiftlang/swift-testing/issues/977) 💬 12 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | 🟡 help wanted | 2026-10-10 |  |
 | [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 10 | [awaseem/foqos](https://github.com/awaseem/foqos) | 866 | 🟡 help wanted | 2026-10-10 |  |
 | [Codex in cmux never uses the shared background server: Computer Use -c overrides force embedded mode](https://github.com/manaflow-ai/cmux/issues/14853) 💬 1 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.1k | 🟡 help wanted | 2026-10-09 | 📄 AI policy · ✍️ CLA |
-| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 760 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
+| [All file names to lower case](https://github.com/lab421/forel/issues/60) 💬 1 | [lab421/forel](https://github.com/lab421/forel) | 763 | 🟡 help wanted | 2026-10-09 | 🤖 disclose AI use |
 | [window default-display is documented but unreachable](https://github.com/manaflow-ai/cmux/issues/15739) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 28.1k | 🟡 help wanted | 2026-10-08 | 📄 AI policy · ✍️ CLA |
-| [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 968 | 🟢 beginner | 2026-10-08 |  |
+| [how do i pin the version of swift in my project?](https://github.com/swiftlang/swiftly/issues/517) 💬 2 | [swiftlang/swiftly](https://github.com/swiftlang/swiftly) | 969 | 🟢 beginner | 2026-10-08 |  |
 | [[Feature]: keymapping for Mac appstore apps](https://github.com/PlayCover/PlayCover/issues/2209) | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 11.9k | 🟢 beginner | 2026-10-07 |  |
 | [[Feature]: Keymap incompatible warning when aspect ratio isn't 16:10](https://github.com/PlayCover/PlayCover/issues/785) 💬 1 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 11.9k | 🟢 beginner | 2026-10-07 |  |
 | [[Bug]: auto resolution does not update after changing macOS display preference](https://github.com/PlayCover/PlayCover/issues/796) 💬 1 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 11.9k | 🟢 beginner | 2026-10-07 |  |
@@ -56,7 +57,7 @@
 | [test: fix flaky internal profiling API test](https://github.com/getsentry/sentry-cocoa/issues/8637) 💬 1 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testProfilerMutationDuringSlicing'](https://github.com/getsentry/sentry-cocoa/issues/3910) 💬 2 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testFlush_WhenNoInternet_BlocksAndFinishes'](https://github.com/getsentry/sentry-cocoa/issues/4704) | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
-| [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 654 | 🟢 beginner | 2026-08-29 |  |
+| [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 655 | 🟢 beginner | 2026-08-29 |  |
 | [Add a Qoder CLI agent manifest](https://github.com/termio-sh/termio/issues/246) | [termio-sh/termio](https://github.com/termio-sh/termio) | 541 | 🟡 help wanted | 2026-08-27 |  |
 | [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 607 | 🟢 beginner | 2026-08-25 |  |
 | [Toolbar buttons draw without their glass capsule on some Macs](https://github.com/termio-sh/termio/issues/371) | [termio-sh/termio](https://github.com/termio-sh/termio) | 541 | 🟡 help wanted | 2026-08-20 |  |
@@ -76,7 +77,7 @@
 | [[SR-12930] Add protocol extension to "Result where Success == Void" so that we can use .success()](https://github.com/swiftlang/swift/issues/55376) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.5k | 🟢 beginner | 2026-07-23 |  |
 | [Play sound when picking up colors](https://github.com/superhighfives/pika/issues/68) 💬 2 | [superhighfives/pika](https://github.com/superhighfives/pika) | 2.6k | 🟡 help wanted | 2026-07-23 |  |
 | [Add Rust/Cargo target directory cleanup (project-level)](https://github.com/bysiber/cleardisk/issues/3) 💬 1 | [bysiber/cleardisk](https://github.com/bysiber/cleardisk) | 713 | 🟢 beginner | 2026-07-22 |  |
-| [SDF 2D / 3D Rendering improvements - call for input / help](https://github.com/Fabric-Project/Fabric/issues/146) | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) | 588 | 🟡 help wanted | 2026-07-22 |  |
+| [SDF 2D / 3D Rendering improvements - call for input / help](https://github.com/Fabric-Project/Fabric/issues/146) | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) | 590 | 🟡 help wanted | 2026-07-22 |  |
 | [Remove underbar prefix from _NIOFileSystem](https://github.com/apple/swift-nio/issues/3052) 💬 14 | [apple/swift-nio](https://github.com/apple/swift-nio) | 8.5k | 🟢 beginner | 2026-07-21 |  |
 | [colors are not the correct ones](https://github.com/sw33tLie/macshot/issues/105) 💬 63 | [sw33tLie/macshot](https://github.com/sw33tLie/macshot) | 3.7k | 🟡 help wanted | 2026-07-10 |  |
 | [AirPods Max audio becomes silent while playback continues after Atoll shows Now Playing](https://github.com/Ebullioscopic/Atoll/issues/565) | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 4.9k | 🟡 help wanted | 2026-07-09 |  |
@@ -90,7 +91,7 @@
 | [Remove special handling of '_SWIFTPM_SKIP_TESTS_LIST' environment variables](https://github.com/swiftlang/swift-package-manager/issues/8533) 💬 2 | [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10.2k | 🟢 beginner | 2026-06-11 |  |
 | [Matching Windows mouse acceleration curve](https://github.com/linearmouse/linearmouse/issues/261) 💬 7 | [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | 7k | 🟡 help wanted | 2026-06-11 |  |
 | [Update size(of text:…) to return a Double](https://github.com/moreSwift/swift-cross-ui/issues/617) | [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) | 1.8k | 🟢 beginner | 2026-06-03 | 🤖 disclose AI use |
-| [Feature Request: Integrate Crowdin for community translations](https://github.com/jaywcjlove/awesome-mac/issues/2119) 💬 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 115.8k | 🟡 help wanted | 2026-05-30 | 📄 AI policy |
+| [Feature Request: Integrate Crowdin for community translations](https://github.com/jaywcjlove/awesome-mac/issues/2119) 💬 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 115.9k | 🟡 help wanted | 2026-05-30 | 📄 AI policy |
 | [Support for Chromecast audio](https://github.com/TortugaPower/BookPlayer/issues/298) 💬 6 | [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer) | 2.2k | 🟡 help wanted | 2026-05-30 |  |
 | [Speed up TargetedScanner by parallelizing target traversal](https://github.com/iliyami/MacSai/issues/8) | [iliyami/MacSai](https://github.com/iliyami/MacSai) | 1.8k | 🟢 beginner | 2026-05-28 |  |
 | [Replace TODO comments in DuplicatesModule with real implementation or remove](https://github.com/iliyami/MacSai/issues/5) | [iliyami/MacSai](https://github.com/iliyami/MacSai) | 1.8k | 🟢 beginner | 2026-05-28 |  |
