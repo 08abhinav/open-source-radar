@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,11 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟡 help wanted | 2026-10-07 |  |
-| [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟡 help wanted | 2026-10-07 |  |
-| [大佬会考虑加入自建音源：Navidrome server吗？我收藏了几千首歌，没有一个播放器喜欢的](https://github.com/algerkong/AlgerMusicPlayer/issues/439) 💬 6 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-10-07 |  |
-| [建议新增同步数据的服务端，比如同步歌单，配置信息](https://github.com/algerkong/AlgerMusicPlayer/issues/385) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟡 help wanted | 2026-10-07 |  |
-| [使用过后的反馈建议以及一些期望的功能](https://github.com/algerkong/AlgerMusicPlayer/issues/132) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-10-07 |  |
+| [添加音源后卡顿严重，基本点击设置以及歌词等界面都会出现卡顿5秒左右，但是播放一切正常](https://github.com/algerkong/AlgerMusicPlayer/issues/723) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟡 help wanted | 2026-10-07 |  |
+| [能否增加对外置DAC解码器的支持，支持bit-perfect源码播放，DAC独占支持？谢谢](https://github.com/algerkong/AlgerMusicPlayer/issues/686) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟡 help wanted | 2026-10-07 |  |
+| [大佬会考虑加入自建音源：Navidrome server吗？我收藏了几千首歌，没有一个播放器喜欢的](https://github.com/algerkong/AlgerMusicPlayer/issues/439) 💬 6 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟢 beginner | 2026-10-07 |  |
+| [建议新增同步数据的服务端，比如同步歌单，配置信息](https://github.com/algerkong/AlgerMusicPlayer/issues/385) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟡 help wanted | 2026-10-07 |  |
+| [使用过后的反馈建议以及一些期望的功能](https://github.com/algerkong/AlgerMusicPlayer/issues/132) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 17k | 🟢 beginner | 2026-10-07 |  |
 | [Command Line controls](https://github.com/tranxuanthang/lrcget/issues/61) 💬 6 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | 3.3k | 🟡 help wanted | 2026-09-06 |  |
 | [Incorrect username after "Delete and re-draft" for handles with subdomains](https://github.com/elk-zone/elk/issues/3410) 💬 2 | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-09-05 | 🔏 DCO |
 | [Spanish translations](https://github.com/Smaug6739/Alexandrie/issues/651) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-26 |  |

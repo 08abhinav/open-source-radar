@@ -1,8 +1,8 @@
 # Cloud, DevOps and infrastructure issues
 
-**475** open issues (189 labeled for beginners) across **137** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
+**471** open issues (187 labeled for beginners) across **135** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,12 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[idea] Docker 05/14: First CPU image and compose, without local model runtimes](https://github.com/MODSetter/SurfSense/issues/2105) 💬 2 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-11 |  |
+| [Datadog Direct to Datadog API Approach](https://github.com/micrometer-metrics/micrometer/issues/3911) 💬 3 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 4.9k | 🟡 help wanted | 2026-10-11 | ✍️ CLA · 🔏 DCO |
 | [Optimize Pod informer memory efficiency used in admission plugins](https://github.com/kubernetes/kubernetes/issues/125469) 💬 22 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.3k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · ✍️ CLA |
 | [[Marketplace] Add Cloudflare AI Search plugin](https://github.com/ToolJet/ToolJet/issues/18240) 💬 6 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use |
 | [Snyk vulnerability [SNYK-JS-POSTCSSSELECTORPARSER-20510276]](https://github.com/backstage/backstage/issues/35975) 💬 2 | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-10 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]](https://github.com/backstage/backstage/issues/35824) 💬 1 | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-10 | 📄 AI policy · 🔏 DCO |
-| [Replace Bootstrap utility classes in 'RawPreview.vue'](https://github.com/kestra-io/kestra/issues/20578) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.5k | 🟢 beginner | 2026-10-10 |  |
-| [Replace Bootstrap utility classes in 'BlueprintsFilterBar.vue'](https://github.com/kestra-io/kestra/issues/20580) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.5k | 🟢 beginner | 2026-10-10 |  |
 | [Migrate the FST dependency to latest](https://github.com/valeriansaliou/sonic/issues/263) 💬 3 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | 21.4k | 🟡 help wanted | 2026-10-10 |  |
 | [Configure Backup and Restore default path for Startup and Shutdown](https://github.com/valeriansaliou/sonic/issues/169) 💬 5 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | 21.4k | 🟡 help wanted | 2026-10-10 |  |
 | [Pinyin support for Chinese users (romanization system for Standard Chinese)](https://github.com/valeriansaliou/sonic/issues/182) 💬 1 | [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) | 21.4k | 🟡 help wanted | 2026-10-10 |  |
@@ -50,14 +50,13 @@
 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]](https://github.com/backstage/backstage/issues/35916) 💬 1 | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-07 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]](https://github.com/backstage/backstage/issues/35917) 💬 1 | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-07 | 📄 AI policy · 🔏 DCO |
 | [Feature Request: Add libnnzsrv.so (Oracle) TLS master secret extraction support](https://github.com/gojue/ecapture/issues/999) | [gojue/ecapture](https://github.com/gojue/ecapture) | 15.5k | 🟡 help wanted | 2026-10-07 |  |
-| [[enhancement ]: Stamp feature to support custom fonts](https://github.com/Stirling-Tools/Stirling-PDF/issues/1458) 💬 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟢 beginner | 2026-10-06 |  |
-| [Feature request: Add QR and/or other barcode stamps.](https://github.com/Stirling-Tools/Stirling-PDF/issues/826) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟢 beginner | 2026-10-06 |  |
-| [altering multiple pdf merge](https://github.com/Stirling-Tools/Stirling-PDF/issues/414) 💬 8 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟢 beginner | 2026-10-06 |  |
-| [[enhance] Auto rename to have other rename fucntionality like pdfgrep](https://github.com/Stirling-Tools/Stirling-PDF/issues/330) 💬 12 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟢 beginner | 2026-10-06 |  |
-| [[Feature-Request] add progressbar to all external calls](https://github.com/Stirling-Tools/Stirling-PDF/issues/149) 💬 8 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟢 beginner | 2026-10-06 |  |
+| [[enhancement ]: Stamp feature to support custom fonts](https://github.com/Stirling-Tools/Stirling-PDF/issues/1458) 💬 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟢 beginner | 2026-10-06 |  |
+| [Feature request: Add QR and/or other barcode stamps.](https://github.com/Stirling-Tools/Stirling-PDF/issues/826) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟢 beginner | 2026-10-06 |  |
+| [altering multiple pdf merge](https://github.com/Stirling-Tools/Stirling-PDF/issues/414) 💬 8 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟢 beginner | 2026-10-06 |  |
+| [[enhance] Auto rename to have other rename fucntionality like pdfgrep](https://github.com/Stirling-Tools/Stirling-PDF/issues/330) 💬 12 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟢 beginner | 2026-10-06 |  |
+| [[Feature-Request] add progressbar to all external calls](https://github.com/Stirling-Tools/Stirling-PDF/issues/149) 💬 8 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟢 beginner | 2026-10-06 |  |
 | [Allow integration with Pomerium proxy on GCP Cloud Run](https://github.com/ToolJet/ToolJet/issues/2798) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [[Feature] Support Firestore Collection Group queries](https://github.com/ToolJet/ToolJet/issues/3802) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
-| [ScyllaDB data source integration](https://github.com/ToolJet/ToolJet/issues/3841) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41.1k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [[YSQL] Side-by-side diff doesn't pick best expectfile](https://github.com/yugabyte/yugabyte-db/issues/28716) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
 | [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.3k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [Snyk vulnerability [SNYK-JS-ZOD-20510278]](https://github.com/backstage/backstage/issues/35974) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-05 | 📄 AI policy · 🔏 DCO |
@@ -192,7 +191,7 @@
 | [Support for Vavr types?](https://github.com/micronaut-projects/micronaut-core/issues/3520) 💬 2 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
 | [How do you use SNI with SSL?](https://github.com/micronaut-projects/micronaut-core/issues/1131) 💬 1 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
 | [Full-duplex support for browsers that do not support WebSocket](https://github.com/micronaut-projects/micronaut-core/issues/583) 💬 2 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
-| [[Feature Request]: Generate a PDF file from a XRechnung XML file](https://github.com/Stirling-Tools/Stirling-PDF/issues/2025) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.9k | 🟡 help wanted | 2026-09-09 |  |
+| [[Feature Request]: Generate a PDF file from a XRechnung XML file](https://github.com/Stirling-Tools/Stirling-PDF/issues/2025) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 94k | 🟡 help wanted | 2026-09-09 |  |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-09-09 |  |
 | [[Bug] Simplepie destroys headers with a JSON value](https://github.com/FreshRSS/FreshRSS/issues/8636) 💬 1 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.3k | 🟡 help wanted | 2026-09-08 |  |
 | [[Feature]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.3k | 🟡 help wanted | 2026-09-08 |  |
@@ -210,5 +209,6 @@
 | [[Security Solution] Refine tooltip message for Related Integrations](https://github.com/elastic/kibana/issues/153228) 💬 10 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
 | [[Security Solution]: Import value lists retains even after user cancel importing the value list.](https://github.com/elastic/kibana/issues/140056) 💬 5 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
 | [[Security Solution][Alerts] Show invocation count explicitly in rule preview](https://github.com/elastic/kibana/issues/146933) 💬 3 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
+| [[Dev Tools] Small design issues in high contrast mode](https://github.com/elastic/kibana/issues/217547) 💬 9 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
 
-Showing the 200 most recently updated. See all 475 on the website.
+Showing the 200 most recently updated. See all 471 on the website.

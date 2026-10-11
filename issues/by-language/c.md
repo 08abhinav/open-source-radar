@@ -1,10 +1,10 @@
 # C issues
 
-**151** open issues (39 labeled for beginners) across **62** active C projects.
+**147** open issues (39 labeled for beginners) across **61** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -36,7 +36,7 @@
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 41k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 41.1k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -49,7 +49,7 @@
 | [Building libqasan for musl](https://github.com/AFLplusplus/AFLplusplus/issues/2832) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-09-21 |  |
 | [[Bug] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 7 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-20 |  |
 | [Appeal Request - royalkludge Account Ban](https://github.com/qmk/qmk_firmware/issues/26285) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-20 |  |
-| [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
+| [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
 | [[Feature Request] Support for Microchip AVR DU (modern AVR with native USB)](https://github.com/qmk/qmk_firmware/issues/26459) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-09-19 |  |
 | [Suppress Warnings From libpng](https://github.com/php/php-src/issues/23674) 💬 2 | [php/php-src](https://github.com/php/php-src) | 40.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
@@ -69,7 +69,6 @@
 | [Firewall rules for Windows 10 hotspot](https://github.com/henrypp/simplewall/issues/425) 💬 59 | [henrypp/simplewall](https://github.com/henrypp/simplewall) | 9.1k | 🟡 help wanted | 2026-08-30 |  |
 | [Failing to use close-on-exec](https://github.com/microsoft/msquic/issues/4980) 💬 6 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟢 beginner | 2026-08-28 | ✍️ CLA |
 | [Crash under heavy spam with linked list corruption](https://github.com/irssi/irssi/issues/1333) 💬 1 | [irssi/irssi](https://github.com/irssi/irssi) | 3.2k | 🟡 help wanted | 2026-08-27 |  |
-| [rtd1296 stability issue](https://github.com/bb-qq/r8152/issues/275) 💬 81 | [bb-qq/r8152](https://github.com/bb-qq/r8152) | 3.1k | 🟡 help wanted | 2026-08-27 |  |
 | [Support Raw Public Key (RPK) as described in RFC 7250.](https://github.com/microsoft/msquic/issues/6245) | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-08-25 | ✍️ CLA |
 | [[Bug] '50-qmk.rules' Broken on systemd 258.](https://github.com/qmk/qmk_firmware/issues/25847) 💬 16 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-08-24 |  |
 | [[BUG] backup fails with —trx-table](https://github.com/mydumper/mydumper/issues/2301) 💬 13 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-08-24 |  |
@@ -100,7 +99,7 @@
 | [Hope to support wolfSSL encryption](https://github.com/microsoft/msquic/issues/6175) 💬 1 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-28 | ✍️ CLA |
 | [[BUG] sockops port error](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/115) 💬 1 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟡 help wanted | 2026-07-26 |  |
 | [[Bug] magic_force/MF34: RGB LEDs remain white with official QMK](https://github.com/qmk/qmk_firmware/issues/26346) 💬 4 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.8k | 🟡 help wanted | 2026-07-24 |  |
-| [Debug persistent tracing - '-t' flag](https://github.com/rizinorg/rizin/issues/765) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use |
+| [Debug persistent tracing - '-t' flag](https://github.com/rizinorg/rizin/issues/765) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use |
 | [Dark Summit - can't enter cheat codes due to Start + Select combo](https://github.com/xemu-project/xemu/issues/2822) 💬 5 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-07-20 |  |
 | [VM left in unusable state when vhost terminates](https://github.com/spdk/spdk/issues/3519) 💬 6 | [spdk/spdk](https://github.com/spdk/spdk) | 3.7k | 🟡 help wanted | 2026-07-20 |  |
 | [os.setTray crashing app on macOS Catalina 10.15.7](https://github.com/neutralinojs/neutralinojs/issues/615) 💬 25 | [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) | 8.7k | 🟡 help wanted | 2026-07-19 |  |
@@ -131,16 +130,16 @@
 | [no way to define "no option forwardfor"](https://github.com/haproxy/haproxy/issues/130) 💬 8 | [haproxy/haproxy](https://github.com/haproxy/haproxy) | 6.9k | 🟢 beginner | 2026-06-24 |  |
 | [Unified Issue ticket for Rule Engine](https://github.com/nanomq/nanomq/issues/2288) 💬 2 | [nanomq/nanomq](https://github.com/nanomq/nanomq) | 2.6k | 🟡 help wanted | 2026-06-23 | 🔏 DCO |
 | [[Recursive lookup] Dunst doesn't search for some icons](https://github.com/dunst-project/dunst/issues/1557) 💬 3 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-06-20 | 🤖 disclose AI use |
-| [[BUG] myloader appears to hang indefinitely during initialization when restoring a massive number of files (&g](https://github.com/mydumper/mydumper/issues/2289) 💬 1 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-06-17 |  |
+| [[BUG] myloader appears to hang indefinitely during initialization when restoring a massive number of files (&gt;2](https://github.com/mydumper/mydumper/issues/2289) 💬 1 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-06-17 |  |
 | [SDL 3 support](https://github.com/chocolate-doom/chocolate-doom/issues/1736) 💬 5 | [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) | 2.4k | 🟢 beginner | 2026-06-17 |  |
 | [EXPORT/IMPORTERS](https://github.com/pawelsalawa/letos/issues/2794) 💬 2 | [pawelsalawa/letos](https://github.com/pawelsalawa/letos) | 6.8k | 🟢 beginner | 2026-06-16 |  |
-| [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
+| [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Blank screen on previous window when opening a new one](https://github.com/ahrm/sioyek/issues/1155) 💬 35 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-06-12 |  |
 | [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-06-10 |  |
 | [Core files not being created on SIGSEGV in ASAN/TSAN mode](https://github.com/yugabyte/yugabyte-db/issues/228) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-06-08 |  |
-| ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
-| [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
-| [Rosetta Code Examples](https://github.com/janet-lang/janet/issues/227) 💬 10 | [janet-lang/janet](https://github.com/janet-lang/janet) | 4.4k | 🟡 help wanted | 2026-06-01 | 🤖 disclose AI use |
+| ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
+| [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
+| [Rosetta Code Examples](https://github.com/janet-lang/janet/issues/227) 💬 10 | [janet-lang/janet](https://github.com/janet-lang/janet) | 4.5k | 🟡 help wanted | 2026-06-01 | 🤖 disclose AI use |
 | [Add support for Android](https://github.com/AltraMayor/f3/issues/209) 💬 6 | [AltraMayor/f3](https://github.com/AltraMayor/f3) | 3.4k | 🟡 help wanted | 2026-05-29 |  |
 | [Allow creation of NTFS filesystems on macOS (at least with 3rd party drivers)](https://github.com/veracrypt/VeraCrypt/issues/1355) 💬 1 | [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) | 11.8k | 🟡 help wanted | 2026-05-28 |  |
 | [Rename blacklist -&gt; blocklist, whitelist -&gt; allowlist](https://github.com/yugabyte/yugabyte-db/issues/4847) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-05-27 |  |
@@ -160,6 +159,3 @@
 | [arm64 support on Windows](https://github.com/premake/premake-core/issues/2472) 💬 8 | [premake/premake-core](https://github.com/premake/premake-core) | 3.6k | 🟡 help wanted | 2026-04-25 |  |
 | [[BUG] Error in acos](https://github.com/IoLanguage/io/issues/489) 💬 8 | [IoLanguage/io](https://github.com/IoLanguage/io) | 2.8k | 🟢 beginner | 2026-04-20 |  |
 | [Document information about Screws used](https://github.com/RfidResearchGroup/ChameleonUltra/issues/326) 💬 6 | [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) | 3.1k | 🟢 beginner | 2026-04-17 |  |
-| [Tdengine 3.2.0.0.0 集群环境下同步数据慢慢慢慢](https://github.com/taosdata/TDengine/issues/34802) 💬 3 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
-| [导入数据集时遇到了性能问题](https://github.com/taosdata/TDengine/issues/34980) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
-| [[RFC] Run-time dynamic linking support](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/495) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-04-13 |  |

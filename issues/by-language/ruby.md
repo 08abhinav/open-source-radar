@@ -1,10 +1,10 @@
 # Ruby issues
 
-**85** open issues (63 labeled for beginners) across **30** active Ruby projects.
+**87** open issues (63 labeled for beginners) across **31** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Please revisit the comma separated header collapsing decision.](https://github.com/lostisland/faraday/issues/1120) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 |  |
+| [Faraday Adapter Parallel Requests On Multiple Domains / Connections](https://github.com/lostisland/faraday/issues/805) 💬 6 | [lostisland/faraday](https://github.com/lostisland/faraday) | 6k | 🟡 help wanted | 2026-10-11 |  |
 | [Thread::Backtrace::Location#label for top-level blocks includes filename instead of &lt;main&gt;](https://github.com/jruby/jruby/issues/5166) 💬 5 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-10-10 |  |
 | [Add Nagoya Ruby Kaigi 05](https://github.com/rubyevents/rubyevents/issues/2182) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 569 | 🟢 beginner | 2026-10-10 |  |
 | [Add Hokuriku RubyKaigi 02](https://github.com/rubyevents/rubyevents/issues/2178) | [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) | 569 | 🟢 beginner | 2026-10-09 |  |
@@ -33,8 +35,8 @@
 | [Feature: Organize documentation topics in beginner-friendly learning order](https://github.com/freeCodeCamp/devdocs/issues/2611) | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.5k | 🟡 help wanted | 2026-09-14 |  |
 | [Soft delete for Initiatives on admin panel](https://github.com/decidim/decidim/issues/6542) 💬 9 | [decidim/decidim](https://github.com/decidim/decidim) | 1.8k | 🟢 beginner | 2026-09-10 |  |
 | [Search does not find article with all keywords in its title](https://github.com/lobsters/lobsters/issues/2220) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-07 |  |
-| [Nested Structured Output ('ActiveAgent::SchemaGenerator')](https://github.com/activeagents/activeagent/issues/260) 💬 3 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 973 | 🟡 help wanted | 2026-09-07 |  |
-| [Documentation backlog](https://github.com/activeagents/activeagent/issues/404) | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 973 | 🟡 help wanted | 2026-09-07 |  |
+| [Nested Structured Output ('ActiveAgent::SchemaGenerator')](https://github.com/activeagents/activeagent/issues/260) 💬 3 | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 974 | 🟡 help wanted | 2026-09-07 |  |
+| [Documentation backlog](https://github.com/activeagents/activeagent/issues/404) | [activeagents/activeagent](https://github.com/activeagents/activeagent) | 974 | 🟡 help wanted | 2026-09-07 |  |
 | [Etc.uname needs a native version](https://github.com/jruby/jruby/issues/2145) 💬 12 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-09-04 |  |
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use |
 | [Oauth2 generated accounts are not added as creators](https://github.com/manyfold3d/manyfold/issues/4768) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-08-29 | 📄 AI policy · ✍️ CLA |

@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**152** open issues (79 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**147** open issues (74 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,12 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [docs: add open, catch-up, timeline and history to the CLI reference](https://github.com/heygen-com/hyperframes/issues/5386) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
-| [docs: add a reference page for every lint finding code](https://github.com/heygen-com/hyperframes/issues/5385) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
-| [[Windows] Transient ffmpeg/ffprobe spawn failures (EBUSY/ETXTBSY) fail the whole render with a bare "spawn EBU](https://github.com/heygen-com/hyperframes/issues/4058) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
-| [Preferences dialogue window partially inaccessible with VoiceOver Screen reader for MacOS](https://github.com/FreeCAD/FreeCAD/issues/33413) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-10 | ⚠️ AI restricted |
-| [Abnormal drop of items](https://github.com/azerothcore/azerothcore-wotlk/issues/4212) 💬 4 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-10-10 |  |
-| [[TBC] Mad Alchemist's Potion without bonus effect](https://github.com/azerothcore/azerothcore-wotlk/issues/14419) 💬 2 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-10-10 |  |
+| [Preferences dialogue window partially inaccessible with VoiceOver Screen reader for MacOS](https://github.com/FreeCAD/FreeCAD/issues/33413) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-11 | ⚠️ AI restricted |
+| [Projects cannot be removed from the project list.](https://github.com/Redot-Engine/redot-engine/issues/1240) 💬 5 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-10-11 | ⚠️ AI restricted |
+| [Focal point picking with no middle mouse button?](https://github.com/f3d-app/f3d/issues/3555) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.8k | 🟡 help wanted | 2026-10-11 | 🤖 disclose AI use |
+| [docs: add a reference page for every lint finding code](https://github.com/heygen-com/hyperframes/issues/5385) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
+| [[Windows] Transient ffmpeg/ffprobe spawn failures (EBUSY/ETXTBSY) fail the whole render with a bare "spawn EBU](https://github.com/heygen-com/hyperframes/issues/4058) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
+| [Sketcher: polyline with undo (ctrl-z) doesn't move point back, but deletes line](https://github.com/FreeCAD/FreeCAD/issues/9789) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-10 | ⚠️ AI restricted |
+| [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 4 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-10-10 |  |
 | [DAG View not rendered properly](https://github.com/FreeCAD/FreeCAD/issues/16525) 💬 24 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-09 | ⚠️ AI restricted |
 | [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 7 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-10-08 |  |
 | [Fillet can not round a face (Fixed in OCC 8.1.0)](https://github.com/FreeCAD/FreeCAD/issues/5561) 💬 18 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-08 | ⚠️ AI restricted |
@@ -28,7 +29,7 @@
 | [RFC: Feature - Allow double-click to adopt new policy branch](https://github.com/yairm210/Unciv/issues/15719) | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.4k | 🟡 help wanted | 2026-10-06 |  |
 | [Shape color is not displayed correctly after change in tree](https://github.com/FreeCAD/FreeCAD/issues/6069) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [STEP import: "Show progress bar when importing" option is clutter](https://github.com/FreeCAD/FreeCAD/issues/31162) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
-| [UI: There is no visual reference to the Sketch that is being edited AKA FreeCAD doesn't handle styling of the ](https://github.com/FreeCAD/FreeCAD/issues/20599) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
+| [UI: There is no visual reference to the Sketch that is being edited AKA FreeCAD doesn't handle styling of the](https://github.com/FreeCAD/FreeCAD/issues/20599) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
 | [BIM: Room finish marks](https://github.com/FreeCAD/FreeCAD/issues/5740) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted |
 | [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-03 | ⚠️ AI restricted |
 | [ESAPI plates break too easily](https://github.com/CleverRaven/Cataclysm-DDA/issues/68613) 💬 1 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟡 help wanted | 2026-10-03 |  |
@@ -36,9 +37,6 @@
 | [TechDraw: Inserted SVG symbols default to bottom of layer stack](https://github.com/FreeCAD/FreeCAD/issues/24820) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
 | [PartDesign: UX could use optimization in order to add elements on some lists](https://github.com/FreeCAD/FreeCAD/issues/24440) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
 | [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
-| [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
-| [PartDesign: Pad generates a surface artifact if it crosses plane (due to Angular Deflection & Deviation settin](https://github.com/FreeCAD/FreeCAD/issues/16257) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34.1k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
-| [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 5 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-09-29 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
@@ -48,8 +46,8 @@
 | [train: hot reloading for faster prototyping](https://github.com/tracel-ai/burn/issues/3571) 💬 2 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟡 help wanted | 2026-09-25 |  |
 | [[Godot] SDFGI broken with Intel Arc GPUs](https://github.com/Redot-Engine/redot-engine/issues/156) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
 | [Digitally sign Windows releases 1.3](https://github.com/Shrey113/Android-Dex/issues/187) 💬 1 | [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) | 3k | 🟢 beginner | 2026-09-25 |  |
-| [Install contributor Git hooks when dependencies are installed in a linked worktree](https://github.com/heygen-com/hyperframes/issues/4387) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
-| [lint: validate composition variables declared on supported root elements](https://github.com/heygen-com/hyperframes/issues/4383) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [Install contributor Git hooks when dependencies are installed in a linked worktree](https://github.com/heygen-com/hyperframes/issues/4387) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [lint: validate composition variables declared on supported root elements](https://github.com/heygen-com/hyperframes/issues/4383) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [docs: add source links to the API docs hosted on burn.dev](https://github.com/tracel-ai/burn/issues/1244) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟢 beginner | 2026-09-24 |  |
 | [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟡 help wanted | 2026-09-24 |  |
 | [Ship the npx installer (bin/cli.mjs) so users can install the img2threejs skill with one command](https://github.com/img2threejs/img2threejs/issues/145) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17.9k | 🟡 help wanted | 2026-09-23 |  |
@@ -70,10 +68,8 @@
 | [Chewbacca patients should be able to transform into females when they die](https://github.com/CorsixTH/CorsixTH/issues/177) 💬 12 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4.6k | 🟡 help wanted | 2026-09-16 |  |
 | [[TRACKER] Potential Development Halting Issues.](https://github.com/FlaxEngine/FlaxEngine/issues/2220) 💬 6 | [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | 7k | 🟡 help wanted | 2026-09-15 |  |
 | [ARC B580 - Menus are sluggish in the redot editor.](https://github.com/Redot-Engine/redot-engine/issues/921) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-14 | ⚠️ AI restricted |
-| [Support for .NIF (NetImmerse File)](https://github.com/f3d-app/f3d/issues/3478) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.8k | 🟡 help wanted | 2026-09-14 | 🤖 disclose AI use |
 | [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.8k | 🟡 help wanted | 2026-09-12 |  |
 | [[BUG]: TOZEROY FILL IS FILLING AREAS OF THE PLOT THAT HAS NO DATA IN IT](https://github.com/plotly/plotly.py/issues/5632) 💬 9 | [plotly/plotly.py](https://github.com/plotly/plotly.py) | 18.8k | 🟢 beginner | 2026-09-12 |  |
-| [all *.json files are interpreted as objects](https://github.com/OpenRCT2/OpenRCT2/issues/16807) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.4k | 🟢 beginner | 2026-09-12 |  |
 | [[2.x] Tracking issue for RID-related binary loading issues on Linux](https://github.com/dotnet/Silk.NET/issues/2610) 💬 2 | [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) | 5.2k | 🟢 beginner | 2026-09-10 | ✍️ CLA |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.4k | 🟢 beginner | 2026-09-09 |  |
@@ -95,7 +91,7 @@
 | [Allow NPCs to milk cows](https://github.com/CleverRaven/Cataclysm-DDA/issues/86410) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟢 beginner | 2026-07-26 |  |
 | [[Enhancement Proposal] Fix badly rendered shadows on common objects.](https://github.com/diasurgical/DevilutionX/issues/2451) 💬 15 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-07-26 |  |
 | [LÖVE 12.0 (CI #1664) crashes on Android when launching a project](https://github.com/love2d/love/issues/2335) 💬 18 | [love2d/love](https://github.com/love2d/love) | 8.8k | 🟡 help wanted | 2026-07-22 |  |
-| [SDF 2D / 3D Rendering improvements - call for input / help](https://github.com/Fabric-Project/Fabric/issues/146) | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) | 584 | 🟡 help wanted | 2026-07-22 |  |
+| [SDF 2D / 3D Rendering improvements - call for input / help](https://github.com/Fabric-Project/Fabric/issues/146) | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) | 588 | 🟡 help wanted | 2026-07-22 |  |
 | [Mouse wheel zoom not working when EnableSwapChainRendering = True](https://github.com/helix-toolkit/helix-toolkit/issues/833) 💬 17 | [helix-toolkit/helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) | 2.3k | 🟡 help wanted | 2026-07-21 |  |
 | [Add notification of excluded WWTT objects](https://github.com/OpenRCT2/OpenRCT2/issues/8031) 💬 2 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.4k | 🟢 beginner | 2026-07-20 |  |
 | [Dark Summit - can't enter cheat codes due to Start + Select combo](https://github.com/xemu-project/xemu/issues/2822) 💬 5 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.2k | 🟢 beginner | 2026-07-20 |  |
@@ -122,7 +118,6 @@
 | [Allow UI setting to control max frame-rate](https://github.com/wesnoth/wesnoth/issues/2210) 💬 7 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-06-24 |  |
 | [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.6k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
 | [Dying in Winterfall Village Cave takes you to Alterac graveyard](https://github.com/azerothcore/azerothcore-wotlk/issues/7014) 💬 7 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-06-21 |  |
-| [Projects cannot be removed from the project list.](https://github.com/Redot-Engine/redot-engine/issues/1240) 💬 3 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-06-21 | ⚠️ AI restricted |
 | [setAttributes() invalidates references to earlier canvases](https://github.com/processing/p5.js/issues/5902) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-20 | ⚠️ AI restricted |
 | [Add additional WebGL filter stress scenarios to visual regression suite](https://github.com/processing/p5.js/issues/8550) 💬 4 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-17 | ⚠️ AI restricted |
 | [fit addon resizes irratically moving up and down](https://github.com/xtermjs/xterm.js/issues/3584) 💬 3 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 21.3k | 🟡 help wanted | 2026-06-16 |  |

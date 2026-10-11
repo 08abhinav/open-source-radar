@@ -1,8 +1,8 @@
 # Web development issues
 
-**251** open issues (109 labeled for beginners) across **105** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
+**249** open issues (107 labeled for beginners) across **107** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,21 +10,19 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 6 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-11 |  |
+| [[Bug]: Product import cannot read back the region price columns that product export writes](https://github.com/medusajs/medusa/issues/16859) 💬 2 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-11 |  |
 | [bump to python 3.14](https://github.com/langgenius/dify/issues/43768) 💬 4 | [langgenius/dify](https://github.com/langgenius/dify) | 158.1k | 🟢 beginner | 2026-10-10 |  |
-| [docs: add open, catch-up, timeline and history to the CLI reference](https://github.com/heygen-com/hyperframes/issues/5386) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
-| [docs: add a reference page for every lint finding code](https://github.com/heygen-com/hyperframes/issues/5385) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
-| [[Windows] Transient ffmpeg/ffprobe spawn failures (EBUSY/ETXTBSY) fail the whole render with a bare "spawn EBU](https://github.com/heygen-com/hyperframes/issues/4058) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
+| [docs: add a reference page for every lint finding code](https://github.com/heygen-com/hyperframes/issues/5385) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
+| [[Windows] Transient ffmpeg/ffprobe spawn failures (EBUSY/ETXTBSY) fail the whole render with a bare "spawn EBU](https://github.com/heygen-com/hyperframes/issues/4058) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · 🔏 DCO |
 | [Typescript regression in handling functions with generic types and method chaingin in 3.2.0 compared to 3.1.0](https://github.com/prettier/prettier/issues/16080) 💬 6 | [prettier/prettier](https://github.com/prettier/prettier) | 52.4k | 🟡 help wanted | 2026-10-10 | 📄 AI policy |
-| [[Bug]: search-postgres: facet counts ignore 'min_score', so typo-tolerant facets count products the hits leave](https://github.com/medusajs/medusa/issues/17231) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟢 beginner | 2026-10-10 |  |
-| [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 6 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-10 |  |
 | [[Bug]: Localized query results seem to stay stale until cache TTL after a translation changes (caching + trans](https://github.com/medusajs/medusa/issues/17149) 💬 3 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-10 |  |
 | [ro.json fails locale parity — 579 keys missing vs en.json (yarn i18n:validate fails)](https://github.com/medusajs/medusa/issues/16941) 💬 2 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-09 |  |
 | [bg.json fails locale parity — 551 keys missing vs en.json (yarn i18n:validate fails)](https://github.com/medusajs/medusa/issues/16943) 💬 2 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-09 |  |
 | [hu.json fails locale parity — 535 keys missing vs en.json (yarn i18n:validate fails)](https://github.com/medusajs/medusa/issues/16945) 💬 2 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-09 |  |
 | [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511) 💬 8 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.9k | 🟢 beginner | 2026-10-09 | ✍️ CLA |
-| [[Bug]: custom path aliases breaks plugin dev hot reload](https://github.com/medusajs/medusa/issues/16535) 💬 8 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.7k | 🟡 help wanted | 2026-10-08 |  |
 | [handling impact of isInputPending on long tasks metrics?](https://github.com/GoogleChrome/lighthouse/issues/11747) 💬 5 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.9k | 🟢 beginner | 2026-10-08 | ✍️ CLA |
-| [PY-09-docling-core: 'validate_misplaced_list_items' drops the children of multi-run list items, so 'export_to_](https://github.com/docling-project/docling/issues/4609) 💬 4 | [docling-project/docling](https://github.com/docling-project/docling) | 68.6k | 🟢 beginner | 2026-10-07 |  |
+| [PY-09-docling-core: 'validate_misplaced_list_items' drops the children of multi-run list items, so 'export_to_](https://github.com/docling-project/docling/issues/4609) 💬 4 | [docling-project/docling](https://github.com/docling-project/docling) | 68.7k | 🟢 beginner | 2026-10-07 |  |
 | [Close workspace search with the Escape key](https://github.com/penpot/penpot/issues/9540) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 60.9k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [Typography.Paragraph's ellipsis tooltip becomes inconsistent when used inside Select options.](https://github.com/ant-design/ant-design/issues/54677) 💬 5 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-10-06 |  |
 | [Statistics -&gt; Views popup help doesn't take account of custom count_view_after value](https://github.com/Chocobozzz/PeerTube/issues/7580) 💬 6 | [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) | 15.4k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use |
@@ -47,8 +45,8 @@
 | [[📖] explain uncontrolled vs controlled components](https://github.com/QwikDev/qwik/issues/6336) 💬 5 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
-| [Install contributor Git hooks when dependencies are installed in a linked worktree](https://github.com/heygen-com/hyperframes/issues/4387) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
-| [lint: validate composition variables declared on supported root elements](https://github.com/heygen-com/hyperframes/issues/4383) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.3k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [Install contributor Git hooks when dependencies are installed in a linked worktree](https://github.com/heygen-com/hyperframes/issues/4387) 💬 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [lint: validate composition variables declared on supported root elements](https://github.com/heygen-com/hyperframes/issues/4383) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 60.6k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 5 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
 | [Corrupt-delete file](https://github.com/TeamAmaze/AmazeFileManager/issues/4721) 💬 8 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.4k | 🟡 help wanted | 2026-09-20 |  |
@@ -69,6 +67,7 @@
 | [Add CanSelect property to MudTreeViewItem](https://github.com/MudBlazor/MudBlazor/issues/11195) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-14 |  |
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9.1k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [Connect Crow to Apache and Nginx using custom modules](https://github.com/CrowCpp/Crow/issues/94) 💬 4 | [CrowCpp/Crow](https://github.com/CrowCpp/Crow) | 5k | 🟡 help wanted | 2026-09-14 |  |
+| [[feat] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 580 | 🟡 help wanted | 2026-09-14 |  |
 | [[Bug]: GraphQL: don't add quotes around binding as query param when user has already provided quotes](https://github.com/appsmithorg/appsmith/issues/16713) 💬 1 | [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) | 41k | 🟡 help wanted | 2026-09-13 |  |
 | [Numeric Field does not support Percent format](https://github.com/MudBlazor/MudBlazor/issues/11241) 💬 7 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-13 |  |
 | [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.8k | 🟡 help wanted | 2026-09-12 |  |
@@ -85,7 +84,7 @@
 | [Command Line controls](https://github.com/tranxuanthang/lrcget/issues/61) 💬 6 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | 3.3k | 🟡 help wanted | 2026-09-06 |  |
 | [EntityDecoder MediaRange translation](https://github.com/http4s/http4s/issues/4973) 💬 11 | [http4s/http4s](https://github.com/http4s/http4s) | 2.6k | 🟢 beginner | 2026-09-05 |  |
 | [Nested 'Tabs' height transitions break due to CSS variable bleed and 0-height behavior of 'TabList' and 'TabPa](https://github.com/adobe/react-spectrum/issues/10292) 💬 12 | [adobe/react-spectrum](https://github.com/adobe/react-spectrum) | 15.9k | 🟢 beginner | 2026-09-03 | 🤖 disclose AI use · ✍️ CLA |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.8k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
 | [DatePicker is not keyboard accessible nor a11y compliant](https://github.com/ant-design/ant-design/issues/53638) 💬 4 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-09-02 |  |
 | [Type 'globalTypes' to assist writing 'preview.js'](https://github.com/storybookjs/storybook/issues/12658) 💬 11 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use |
 | [Add toolbar to --docs mode](https://github.com/storybookjs/storybook/issues/13025) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use |
@@ -98,13 +97,13 @@
 | [Packages using memory even if they are not used](https://github.com/directus/directus/issues/24334) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.4k | 🟡 help wanted | 2026-09-02 |  |
 | [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.4k | 🟡 help wanted | 2026-09-02 |  |
 | [[Tracker] 任务清单](https://github.com/ant-design/ant-design/issues/58972) 💬 4 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-09-01 |  |
-| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.7k | 🟡 help wanted | 2026-09-01 |  |
-| [Docling on n8n nodes](https://github.com/docling-project/docling/issues/890) 💬 1 | [docling-project/docling](https://github.com/docling-project/docling) | 68.6k | 🟡 help wanted | 2026-09-01 |  |
+| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.8k | 🟡 help wanted | 2026-09-01 |  |
+| [Docling on n8n nodes](https://github.com/docling-project/docling/issues/890) 💬 1 | [docling-project/docling](https://github.com/docling-project/docling) | 68.7k | 🟡 help wanted | 2026-09-01 |  |
 | [Responsive images generated with contain fit and an aspect ratio that causes pillarboxing are missing high res](https://github.com/gatsbyjs/gatsby/issues/33647) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [SSR: Restricting Access to Specific Pages Based on Authenticated User](https://github.com/gatsbyjs/gatsby/issues/36427) 💬 9 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [[Bug] Dubbo 3.3.2: FORCE_APPLICATION may leave one of multiple same-interface different-group consumer referen](https://github.com/apache/dubbo/issues/16269) 💬 4 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
-| [[Bug] When running a Dubbo 3.3.6 application on JDK 25, application startup fails with 'NoClassDefFoundError: ](https://github.com/apache/dubbo/issues/16295) 💬 6 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
+| [[Bug] When running a Dubbo 3.3.6 application on JDK 25, application startup fails with 'NoClassDefFoundError:](https://github.com/apache/dubbo/issues/16295) 💬 6 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [[Bug Report][3.7.19] VDataTable and VDataTableServer props v-slot:item.data-table-select type mismatch error](https://github.com/vuetifyjs/vuetify/issues/21183) 💬 13 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41k | 🟡 help wanted | 2026-09-01 |  |
 | [[Feature Request] TypeScript Infinite Type Instantiation with ComponentProps&lt;typeof VSelect&gt;](https://github.com/vuetifyjs/vuetify/issues/21430) 💬 2 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41k | 🟡 help wanted | 2026-09-01 |  |
 | [[Bug Report][3.7.6] No focus indicator for closable chips inside v-autocomplete in Safari](https://github.com/vuetifyjs/vuetify/issues/20792) 💬 2 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41k | 🟡 help wanted | 2026-09-01 |  |
@@ -196,6 +195,7 @@
 | [Неверное склонение городов](https://github.com/wapmorgan/Morphos/issues/142) 💬 4 | [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos) | 829 | 🟡 help wanted | 2026-07-09 |  |
 | [Corrupted styles with third-party component using cssInterop and shadows](https://github.com/nativewind/nativewind/issues/1418) 💬 2 | [nativewind/nativewind](https://github.com/nativewind/nativewind) | 8.1k | 🟡 help wanted | 2026-07-08 |  |
 | [Displaying Camera Settings](https://github.com/immichFrame/ImmichFrame/issues/386) 💬 8 | [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) | 2.4k | 🟢 beginner | 2026-07-08 |  |
+| [Consider expanding the HttpClient to support a query parameter and fragment builders.](https://github.com/reactor/reactor-netty/issues/753) 💬 5 | [reactor/reactor-netty](https://github.com/reactor/reactor-netty) | 2.8k | 🟡 help wanted | 2026-07-07 |  |
 | [Proposal: Turn on GL backend for Femtovg WGPU](https://github.com/slint-ui/slint/issues/12273) 💬 2 | [slint-ui/slint](https://github.com/slint-ui/slint) | 24.1k | 🟢 beginner | 2026-06-30 |  |
 | [Scripts refuse to load due to unsafe eval](https://github.com/beautifier/js-beautify/issues/1319) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟡 help wanted | 2026-06-30 |  |
 | [Does this currently support babel/es2015/es6?](https://github.com/beautifier/js-beautify/issues/780) 💬 5 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-06-30 |  |
@@ -211,4 +211,4 @@
 | [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.6k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
 | [setAttributes() invalidates references to earlier canvases](https://github.com/processing/p5.js/issues/5902) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-20 | ⚠️ AI restricted |
 
-Showing the 200 most recently updated. See all 251 on the website.
+Showing the 200 most recently updated. See all 249 on the website.

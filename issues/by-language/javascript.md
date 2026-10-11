@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**141** open issues (68 labeled for beginners) across **58** active JavaScript projects.
+**138** open issues (64 labeled for beginners) across **59** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [notion plugin: remove the unused statusLabels()](https://github.com/career-ops-hq/career-ops/issues/4964) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [apify plugin: write the JD frontmatter with js-yaml instead of yamlEscape](https://github.com/career-ops-hq/career-ops/issues/4961) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [plugin-audit.mjs: use validateFlags() instead of its own flag parsing](https://github.com/career-ops-hq/career-ops/issues/4960) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
 | [Typescript regression in handling functions with generic types and method chaingin in 3.2.0 compared to 3.1.0](https://github.com/prettier/prettier/issues/16080) 💬 6 | [prettier/prettier](https://github.com/prettier/prettier) | 52.4k | 🟡 help wanted | 2026-10-10 | 📄 AI policy |
 | [Audit proposal: Detect if React is development mode](https://github.com/GoogleChrome/lighthouse/issues/9511) 💬 8 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.9k | 🟢 beginner | 2026-10-09 | ✍️ CLA |
 | [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-10-09 |  |
@@ -52,7 +48,8 @@
 | [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 |  |
 | [Finish DocumenterPluto.jl](https://github.com/JuliaPluto/Pluto.jl/issues/3602) 💬 1 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-09-03 |  |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.8k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
+| [[Feat]: Anylinux appimage support](https://github.com/IsmaelMartinez/teams-for-linux/issues/2888) 💬 2 | [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) | 5.1k | 🟡 help wanted | 2026-09-03 |  |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66.1k | 🟡 help wanted | 2026-09-02 |  |
 | [Module Federation Share should support layers/issuerLayer](https://github.com/webpack/webpack/issues/18988) 💬 9 | [webpack/webpack](https://github.com/webpack/webpack) | 66.1k | 🟡 help wanted | 2026-09-02 |  |
 | [📝 Docs: Give props to non-OpenCollective sponsors, services](https://github.com/mochajs/mocha/issues/3627) 💬 7 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
@@ -109,7 +106,7 @@
 | [Incorrect message when branch is not recognized as release branch](https://github.com/semantic-release/semantic-release/issues/1443) 💬 8 | [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) | 24.1k | 🟡 help wanted | 2026-07-16 |  |
 | [SMS Text to Speech/ Calling notification service](https://github.com/louislam/uptime-kuma/issues/3295) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.3k | 🟡 help wanted | 2026-07-12 | ⚠️ AI restricted |
 | [[ACTION] Contacts+](https://github.com/PipedreamHQ/pipedream/issues/21328) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-07-11 |  |
-| [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.3k | 🟡 help wanted | 2026-07-09 |  |
+| [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.2k | 🟡 help wanted | 2026-07-09 |  |
 | [Label double moves on batch movement](https://github.com/bpmn-io/bpmn-js/issues/1766) 💬 3 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟢 beginner | 2026-07-08 |  |
 | [Corrupted styles with third-party component using cssInterop and shadows](https://github.com/nativewind/nativewind/issues/1418) 💬 2 | [nativewind/nativewind](https://github.com/nativewind/nativewind) | 8.1k | 🟡 help wanted | 2026-07-08 |  |
 | [[Help] disable the physical touchscreen](https://github.com/viarotel-org/escrcpy/issues/613) 💬 1 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 12k | 🟡 help wanted | 2026-07-05 |  |

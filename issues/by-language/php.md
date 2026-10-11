@@ -1,10 +1,10 @@
 # PHP issues
 
-**156** open issues (80 labeled for beginners) across **51** active PHP projects.
+**155** open issues (79 labeled for beginners) across **50** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -164,7 +164,6 @@
 | [swapAndInvoice - Broken State/Free upgrade](https://github.com/laravel/cashier-stripe/issues/1817) 💬 16 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-05-03 |  |
 | [Inconsistent orWhere behavior after upgrade from Laravel 10.x to 13.x](https://github.com/laravel/framework/issues/59516) 💬 4 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-05-01 |  |
 | [Ability to set default_phone_region to none / E.164 only](https://github.com/nextcloud/server/issues/49460) 💬 6 | [nextcloud/server](https://github.com/nextcloud/server) | 37.1k | 🟢 beginner | 2026-04-29 | 🤖 disclose AI use · 🔏 DCO |
-| [[Meilisearch v1.37] Backport Network API changes to 'v1.x' branch](https://github.com/meilisearch/meilisearch-php/issues/851) 💬 1 | [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) | 758 | 🟢 beginner | 2026-04-28 | 🤖 disclose AI use |
 | [[FR] Auto-subscribe to folders](https://github.com/cypht-org/cypht/issues/460) 💬 1 | [cypht-org/cypht](https://github.com/cypht-org/cypht) | 1.8k | 🟡 help wanted | 2026-04-16 |  |
 | [3.0.0-RC: @package partially not inherited for "classless functions/constants"](https://github.com/phpDocumentor/phpDocumentor/issues/2318) 💬 4 | [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) | 4.3k | 🟡 help wanted | 2026-04-15 |  |
 | [Page Overlay specific date ranges](https://github.com/matomo-org/matomo/issues/20230) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-04-14 |  |

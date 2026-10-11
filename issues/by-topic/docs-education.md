@@ -1,8 +1,8 @@
 # Documentation and education issues
 
-**92** open issues (55 labeled for beginners) across **26** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
+**88** open issues (51 labeled for beginners) across **26** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [notion plugin: remove the unused statusLabels()](https://github.com/career-ops-hq/career-ops/issues/4964) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [h1b-sponsor: move the duplicated displayClean() into lib/](https://github.com/career-ops-hq/career-ops/issues/4963) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [apify plugin: write the JD frontmatter with js-yaml instead of yamlEscape](https://github.com/career-ops-hq/career-ops/issues/4961) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
-| [plugin-audit.mjs: use validateFlags() instead of its own flag parsing](https://github.com/career-ops-hq/career-ops/issues/4960) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74k | 🟢 beginner | 2026-10-10 | 🤖 disclose AI use |
 | [Add file history to Viewer navigation](https://github.com/gsantner/markor/issues/705) 💬 8 | [gsantner/markor](https://github.com/gsantner/markor) | 6.3k | 🟢 beginner | 2026-10-10 |  |
 | [todo.txt: Reminders & Notifications for due date](https://github.com/gsantner/markor/issues/716) 💬 6 | [gsantner/markor](https://github.com/gsantner/markor) | 6.3k | 🟢 beginner | 2026-10-10 |  |
 | [Determine and keep EOL (for saving/reading files) (\\n vs \\r\\n)](https://github.com/gsantner/markor/issues/827) 💬 3 | [gsantner/markor](https://github.com/gsantner/markor) | 6.3k | 🟢 beginner | 2026-10-10 |  |
@@ -31,7 +27,7 @@
 | [Broken/Dead Links: Implementing a Search Engine](https://github.com/practical-tutorials/project-based-learning/issues/380) 💬 33 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 286.3k | 🟢 beginner | 2026-10-03 |  |
 | [broken link in java tutorial](https://github.com/practical-tutorials/project-based-learning/issues/347) 💬 10 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 286.3k | 🟢 beginner | 2026-10-03 |  |
 | [Is adding an Arduino section aligned with intent of this tutorial? (add an Arduino section)](https://github.com/practical-tutorials/project-based-learning/issues/94) 💬 6 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 286.3k | 🟢 beginner | 2026-10-03 |  |
-| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.7k | 🟢 beginner | 2026-10-03 |  |
+| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.8k | 🟢 beginner | 2026-10-03 |  |
 | [ContentProvider returns null unless app manually launched — request for background-initializable entry point](https://github.com/ankidroid/Anki-Android/issues/18286) 💬 16 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 12k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use |
 | [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 |  |
 | [[Bug]: automigrate fails on EXDEV error](https://github.com/storybookjs/storybook/issues/30184) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |

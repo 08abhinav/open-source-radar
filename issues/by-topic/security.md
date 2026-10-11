@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**211** open issues (106 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**210** open issues (106 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-10 21:31 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-11 12:23 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,9 +10,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [💡 REVAMPING THE CALENDAR](https://github.com/super-productivity/super-productivity/issues/9250) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-10-11 |  |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-10 | 🤖 disclose AI use · ✍️ CLA |
 | [Add screenshot-taking support](https://github.com/ungoogled-software/ungoogled-chromium/issues/3990) 💬 1 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-10-10 |  |
-| [Protein/Creatine Reminder](https://github.com/InlitX/GymMane/issues/76) 💬 8 | [InlitX/GymMane](https://github.com/InlitX/GymMane) | 844 | 🟡 help wanted | 2026-10-10 |  |
+| [Protein/Creatine Reminder](https://github.com/InlitX/GymMane/issues/76) 💬 8 | [InlitX/GymMane](https://github.com/InlitX/GymMane) | 850 | 🟡 help wanted | 2026-10-10 |  |
 | [Integration with ticktick or Vikunja](https://github.com/super-productivity/super-productivity/issues/2312) 💬 30 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-10-09 |  |
 | [Make sure opening hours show proper schedule on selecting another POI](https://github.com/organicmaps/organicmaps/issues/12106) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-10-09 | 🔏 DCO |
 | [Missing tests for binary detection rules](https://github.com/e-m-b-a/emba/issues/2157) | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-10-09 |  |
@@ -51,14 +52,12 @@
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [💡 Add a folder option to the board project filter](https://github.com/super-productivity/super-productivity/issues/8615) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-09-26 |  |
 | [💡 OneDev as issue provider](https://github.com/super-productivity/super-productivity/issues/10183) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-09-26 |  |
-| [💡 Calendar-style Week view with Monday-based weeks and week navigation](https://github.com/super-productivity/super-productivity/issues/9514) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-09-26 |  |
-| [💡 Add a complete list of all keyboard shortcuts](https://github.com/super-productivity/super-productivity/issues/10204) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.7k | 🟡 help wanted | 2026-09-26 |  |
 | [[Feature]: Add LADB / Direct Wireless Debugging backend option](https://github.com/kitsumed/ShizuCallRecorder/issues/97) 💬 2 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-09-25 | 🤖 disclose AI use |
 | [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 1k | 🟡 help wanted | 2026-09-23 |  |
 | [With external engine, getting DHE copy parameter's failure.](https://github.com/openssl/openssl/issues/23137) 💬 12 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Building libqasan for musl](https://github.com/AFLplusplus/AFLplusplus/issues/2832) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-09-21 |  |
 | [Some icons are blurry or inconsistent in size on Android 16 / Fairphone](https://github.com/organicmaps/organicmaps/issues/13596) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-20 | 🔏 DCO |
-| [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
+| [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
 | [[Feature Request] dns protection](https://github.com/0xCUB3/wBlock/issues/716) 💬 3 | [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) | 3k | 🟡 help wanted | 2026-09-19 |  |
 | [[Bug] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-09-18 |  |
 | [macbook use Touch ID instead password](https://github.com/GyulyVGC/sniffnet/issues/1300) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
@@ -75,7 +74,7 @@
 | [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 |  |
 | [Add flag to disable Web Audio API](https://github.com/ungoogled-software/ungoogled-chromium/issues/3944) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-09-04 |  |
-| [[Flatpak] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.3k | 🟡 help wanted | 2026-09-03 |  |
+| [[Flatpak] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.4k | 🟡 help wanted | 2026-09-03 |  |
 | [CLI Support for Injecting Envars into Docker-Compose Containers without embedding the CLI in Container Images](https://github.com/Infisical/infisical/issues/425) 💬 8 | [Infisical/infisical](https://github.com/Infisical/infisical) | 29.7k | 🟡 help wanted | 2026-09-01 |  |
 | [Support header sso (Forward Auth)](https://github.com/lldap/lldap/issues/352) 💬 15 | [lldap/lldap](https://github.com/lldap/lldap) | 6.6k | 🟢 beginner | 2026-08-31 |  |
 | [Docs: add a Wikipedia page about Sniffnet](https://github.com/GyulyVGC/sniffnet/issues/975) 💬 2 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
@@ -98,7 +97,7 @@
 | [New Portuguese ID card support (june 2024)](https://github.com/OpenSC/OpenSC/issues/3482) 💬 8 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟡 help wanted | 2026-08-18 | 🤖 disclose AI use |
 | [Cache poisoning: additional persona/auditor sensitivities](https://github.com/zizmorcore/zizmor/issues/1278) 💬 2 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) | 6.7k | 🟡 help wanted | 2026-08-17 | 📄 AI policy |
 | [create a nice logo / icon / favicon / ...](https://github.com/borgbackup/borg/issues/4690) 💬 10 | [borgbackup/borg](https://github.com/borgbackup/borg) | 13.8k | 🟡 help wanted | 2026-08-12 |  |
-| [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.3k | 🟢 beginner | 2026-08-11 |  |
+| [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.4k | 🟢 beginner | 2026-08-11 |  |
 | [Samba integration](https://github.com/lldap/lldap/issues/599) 💬 32 | [lldap/lldap](https://github.com/lldap/lldap) | 6.6k | 🟡 help wanted | 2026-08-11 |  |
 | [Update bundled jQuery version to address older dependency warnings](https://github.com/LinkStackOrg/LinkStack/issues/995) 💬 1 | [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) | 3.9k | 🟢 beginner | 2026-08-11 |  |
 | [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 824 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
@@ -114,10 +113,10 @@
 | [[Bug]: In some languages, an extra scrollbar appears in the settings](https://github.com/FreeTubeApp/FreeTube/issues/6330) 💬 5 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22k | 🟢 beginner | 2026-08-06 |  |
 | [When creating an input, have graylog show a note if the selected port is already in use](https://github.com/Graylog2/graylog2-server/issues/15953) 💬 5 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-08-06 |  |
 | [Discrepancy in display counts on Sources view](https://github.com/Graylog2/graylog2-server/issues/6502) 💬 3 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-08-06 |  |
-| [Don't forward queries that can't be answered by public DNS servers](https://github.com/AdguardTeam/AdGuardHome/issues/1705) 💬 14 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.3k | 🟡 help wanted | 2026-08-05 |  |
+| [Don't forward queries that can't be answered by public DNS servers](https://github.com/AdguardTeam/AdGuardHome/issues/1705) 💬 14 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.4k | 🟡 help wanted | 2026-08-05 |  |
 | [Is it possible to add these flags back?](https://github.com/ungoogled-software/ungoogled-chromium/issues/3895) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-08-04 |  |
-| [Update stats on Dashboard in real-time](https://github.com/AdguardTeam/AdGuardHome/issues/1739) 💬 10 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.3k | 🟡 help wanted | 2026-08-03 |  |
-| [Wrong OS/ARCH for Docker Image](https://github.com/AdguardTeam/AdGuardHome/issues/1265) 💬 11 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.3k | 🟡 help wanted | 2026-08-03 |  |
+| [Update stats on Dashboard in real-time](https://github.com/AdguardTeam/AdGuardHome/issues/1739) 💬 10 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.4k | 🟡 help wanted | 2026-08-03 |  |
+| [Wrong OS/ARCH for Docker Image](https://github.com/AdguardTeam/AdGuardHome/issues/1265) 💬 11 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.4k | 🟡 help wanted | 2026-08-03 |  |
 | [Feature flag to enable QUIC for custom CAs](https://github.com/ungoogled-software/ungoogled-chromium/issues/3894) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-08-01 |  |
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
@@ -150,7 +149,7 @@
 | [Emulation check for CVE-2026-24061 – GNU InetUtils telnetd Authentication Bypass Vulnerability](https://github.com/e-m-b-a/emba/issues/1905) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-07-23 |  |
 | [Feature request: Automatically scroll down for highlighted matches on large output data](https://github.com/gchq/CyberChef/issues/1386) 💬 2 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36.1k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Support Falco running with sandboxed runtimes](https://github.com/falcosecurity/falco/issues/1413) 💬 59 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9.5k | 🟡 help wanted | 2026-07-21 |  |
-| [Debug persistent tracing - '-t' flag](https://github.com/rizinorg/rizin/issues/765) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use |
+| [Debug persistent tracing - '-t' flag](https://github.com/rizinorg/rizin/issues/765) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use |
 | [Replace .qjz9zk "TLD" with the specification compliant .invalid TLD for domain substitution](https://github.com/ungoogled-software/ungoogled-chromium/issues/3878) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-07-20 |  |
 | [Auto-Restore Pages After a Crash](https://github.com/ungoogled-software/ungoogled-chromium/issues/3845) 💬 3 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-07-17 |  |
 | [The MavenMetaAnalyzer task fails due to invalid URLs](https://github.com/DependencyTrack/dependency-track/issues/3566) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-07-16 | ⚠️ AI restricted · 🔏 DCO |
@@ -173,9 +172,9 @@
 | [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
 | [Bring back the scrollable-tabstrip flag](https://github.com/ungoogled-software/ungoogled-chromium/issues/3832) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-22 |  |
 | [Segments \| Improve geographical segmentations: Continent & Regions segment are not clear](https://github.com/matomo-org/matomo/issues/11261) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-06-22 |  |
-| [PT BR - Portuguese Brazil](https://github.com/itsfatduck/optimizerDuck/issues/34) 💬 1 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 10.3k | 🟢 beginner | 2026-06-16 |  |
+| [PT BR - Portuguese Brazil](https://github.com/itsfatduck/optimizerDuck/issues/34) 💬 1 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 10.4k | 🟢 beginner | 2026-06-16 |  |
 | [Set SameSite attribute on session cookie created by the frontend](https://github.com/DependencyTrack/dependency-track/issues/2985) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-15 | ⚠️ AI restricted · 🔏 DCO |
-| [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
+| [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Specifying only Group Name and Version will not match VulnerableSoftware using the Internal Analyzer.](https://github.com/DependencyTrack/dependency-track/issues/2984) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-13 | ⚠️ AI restricted · 🔏 DCO |
 | [[3.x-migration] ApiController](https://github.com/MISP/MISP/issues/9382) 💬 2 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-12 | ✍️ CLA |
 | [FR: Add support for Synology RT2600 series routers and SRM platform](https://github.com/tailscale/tailscale/issues/5455) 💬 23 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37.4k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
@@ -184,8 +183,8 @@
 | [[Feature] MV2 Bypass in Chrome 151.X+](https://github.com/ungoogled-software/ungoogled-chromium/issues/3812) 💬 1 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-08 |  |
 | [Org admin can't delete local tags](https://github.com/MISP/MISP/issues/6513) 💬 1 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟡 help wanted | 2026-06-08 | ✍️ CLA |
 | [Add warning on the web interface stating the discussions aren't shared.](https://github.com/MISP/MISP/issues/3181) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-07 | ✍️ CLA |
-| ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
-| [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
+| ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
+| [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 4k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [Add rendering man_made=tower](https://github.com/organicmaps/organicmaps/issues/5521) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-06-06 | 🔏 DCO |
 | [Publish icon is upside down](https://github.com/MISP/MISP/issues/1179) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-05 | ✍️ CLA |
 | [Selenium tests: check console output.](https://github.com/searxng/searxng/issues/338) 💬 1 | [searxng/searxng](https://github.com/searxng/searxng) | 38.2k | 🟢 beginner | 2026-06-04 | 📄 AI policy |
@@ -200,7 +199,7 @@
 | [Speed up TargetedScanner by parallelizing target traversal](https://github.com/iliyami/MacSai/issues/8) | [iliyami/MacSai](https://github.com/iliyami/MacSai) | 1.8k | 🟢 beginner | 2026-05-28 |  |
 | [Replace TODO comments in DuplicatesModule with real implementation or remove](https://github.com/iliyami/MacSai/issues/5) | [iliyami/MacSai](https://github.com/iliyami/MacSai) | 1.8k | 🟢 beginner | 2026-05-28 |  |
 | [Cropped button label in "Remove vault" dialog](https://github.com/cryptomator/cryptomator/issues/3338) 💬 5 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.3k | 🟢 beginner | 2026-05-26 |  |
-| [[Bug] No longer see files/folders within secure folder](https://github.com/leonlatsch/Photok/issues/678) 💬 5 | [leonlatsch/Photok](https://github.com/leonlatsch/Photok) | 977 | 🟢 beginner | 2026-05-21 |  |
+| [[Bug] No longer see files/folders within secure folder](https://github.com/leonlatsch/Photok/issues/678) 💬 5 | [leonlatsch/Photok](https://github.com/leonlatsch/Photok) | 978 | 🟢 beginner | 2026-05-21 |  |
 | [[META] Adding subfeatures to audits](https://github.com/zizmorcore/zizmor/issues/963) 💬 4 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) | 6.7k | 🟢 beginner | 2026-05-15 | 📄 AI policy |
 | [api_version as large unsigned int causes exception instead of clean rejection](https://github.com/XRPLF/rippled/issues/6776) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-15 |  |
 | [[Feature]: Support Dual Call Scenario](https://github.com/kitsumed/ShizuCallRecorder/issues/2) | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-05-15 | 🤖 disclose AI use |
@@ -210,5 +209,6 @@
 | [checkTxJsonFields calls asString() on tx_json.Account without type check](https://github.com/XRPLF/rippled/issues/6771) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-08 |  |
 | [CephFS Backend](https://github.com/rclone/rclone/issues/7172) 💬 11 | [rclone/rclone](https://github.com/rclone/rclone) | 60.2k | 🟡 help wanted | 2026-05-06 |  |
 | [Define a clear threat model for this project](https://github.com/ungoogled-software/ungoogled-chromium/issues/3287) 💬 4 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-05-05 |  |
+| [hide close button("x") on first half(first tab) of "split view"](https://github.com/ungoogled-software/ungoogled-chromium/issues/3771) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-05-05 |  |
 
-Showing the 200 most recently updated. See all 211 on the website.
+Showing the 200 most recently updated. See all 210 on the website.
