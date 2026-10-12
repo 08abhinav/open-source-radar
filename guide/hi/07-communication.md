@@ -64,4 +64,4 @@
 - [ ] क्या आपकी PR description में समस्या और समाधान दोनों स्पष्ट हैं?
 - [ ] क्या मेरे follow-ups में पर्याप्त अंतर है और वे विनम्र हैं?
 
-अगला: [Reviews, feedback और rejection](../08-reviews.md)
+अगला: [Reviews, feedback और rejection](08-reviews.md)
