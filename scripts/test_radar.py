@@ -311,25 +311,49 @@ class MarkdownTests(unittest.TestCase):
 
 class NotesForTests(unittest.TestCase):
     def test_no_policy(self):
-
         repo = {}
         result = radar.notes_for(repo)
         self.assertEqual(result, "")
 
+    def test_with_contributing_guide(self):
+        repo = {
+            "url": "https://github.com/owner/repo",
+            "contributing": "CONTRIBUTING.md",
+        }
+        self.assertEqual(
+            radar.notes_for(repo),
+            "[📘 guide](https://github.com/owner/repo/blob/HEAD/CONTRIBUTING.md)",
+        )
+
     def test_with_ai_rule(self):
-
-        ai_rules = ["restricted", "disclose", "policy"]
         expected = {"restricted": "⚠️ AI restricted", "disclose": "🤖 disclose AI use", "policy": "📄 AI policy"}
-        for rule in ai_rules:
-            repo = {"policy": {"ai": rule}}
-
-            result = radar.notes_for(repo)
-            self.assertEqual(result, expected[rule])
+        for rule, note in expected.items():
+            with self.subTest(rule=rule):
+                self.assertEqual(radar.notes_for({"policy": {"ai": rule}}), note)
 
     def test_with_cla_plus_dco(self):
-        repo = {"policy": {"cla": True, "dco": True}}
-        result = radar.notes_for(repo)
-        self.assertEqual(result, "✍️ CLA · 🔏 DCO")
+        self.assertEqual(radar.notes_for({"policy": {"cla": True, "dco": True}}), "✍️ CLA · 🔏 DCO")
+
+    def test_without_contributing_field(self):
+        self.assertEqual(radar.notes_for({}), "")
+
+    def test_with_null_contributing(self):
+        repo = {
+            "url": "https://github.com/owner/repo",
+            "contributing": None,
+        }
+        self.assertEqual(radar.notes_for(repo), "")
+
+    def test_with_cla_and_contributing_guide(self):
+        repo = {
+            "url": "https://github.com/owner/repo",
+            "policy": {"cla": True},
+            "contributing": "docs/CONTRIBUTING.md",
+        }
+        self.assertEqual(
+            radar.notes_for(repo),
+            "✍️ CLA · [📘 guide](https://github.com/owner/repo/blob/HEAD/docs/CONTRIBUTING.md)",
+        )
 
 
 class IssueTableTests(unittest.TestCase):
