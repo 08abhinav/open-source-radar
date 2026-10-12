@@ -537,13 +537,28 @@ AI_NOTE = {
 
 def md_escape(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
-    return text.replace("\\", "\\\\").replace("|", "\\|").replace("<", "&lt;").replace(">", "&gt;").replace("`", "'")
+    return (
+        text.replace("\\", "\\\\")
+        .replace("|", "\\|")
+        .replace("[", "\\[")
+        .replace("]", "\\]")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace("`", "'")
+    )
 
 
 def format_stars(stars: int) -> str:
-    if stars >= 1000:
-        return f"{stars / 1000:.1f}k".replace(".0k", "k")
-    return str(stars)
+    # Round first, then check the unit again, so 999_950 shows as 1M rather than 1000k.
+    units = ((1000, "k"), (1_000_000, "M"), (1_000_000_000, "B"))
+    if stars < 1000:
+        return str(stars)
+    i = max(n for n, (limit, _) in enumerate(units) if stars >= limit)
+    value = round(stars / units[i][0], 1)
+    if value >= 1000 and i + 1 < len(units):
+        i += 1
+        value = round(stars / units[i][0], 1)
+    return f"{value:.1f}".removesuffix(".0") + units[i][1]
 
 
 def notes_for(repo: dict[str, Any]) -> str:
