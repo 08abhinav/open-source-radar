@@ -15,7 +15,7 @@
 | 5 | [अपना पहला Pull Request, चरण-दर-चरण](05-first-pull-request.md) | Fork, clone, branch, build, test, commit, push करना और PR खोलना |
 | 6 | [शुरू करने से पहले जाँचने वाले नियम](06-rules-before-you-start.md) | Contributing guides, CLAs, DCO sign-off, AI policies और anti-spam bots |
 | 7 | [Maintainers से बातचीत करना](07-communication.md) | Issue claim करना, अच्छे सवाल पूछना और ऐसी PR descriptions लिखना जिन्हें लोग review करना चाहें |
-| 8 | [Reviews, feedback और rejection](../08-reviews.md) (English) | Change requests, CI failures, चुप्पी और “नहीं” को संभालना |
+| 8 | [Reviews, feedback और rejection](08-reviews.md) | Change requests, CI failures, चुप्पी और “नहीं” को संभालना |
 | 9 | [आगे बढ़ते रहें](../09-keep-going.md) (English) | एक PR से एक अच्छे track record तक: नियमित contributor, reviewer और maintainer बनना |
 
 यह भी उपयोगी है:
