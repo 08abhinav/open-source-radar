@@ -298,6 +298,21 @@ class MarkdownTests(unittest.TestCase):
             r"\[broken title",
         )
 
+    def test_escape_collapses_whitespace_and_trims(self):
+        self.assertEqual(radar.md_escape("  hello\n\n  world\t "), "hello world")
+        self.assertEqual(radar.md_escape("\n\t  "), "")
+
+    def test_escape_pipe_and_backslash(self):
+        self.assertEqual(radar.md_escape("a|b"), r"a\|b")
+        self.assertEqual(radar.md_escape(r"a\b"), r"a\\b")
+        self.assertEqual(radar.md_escape(r"a\|b"), r"a\\\|b")
+
+    def test_escape_angle_brackets(self):
+        self.assertEqual(radar.md_escape("<b>"), "&lt;b&gt;")
+
+    def test_escape_backticks(self):
+        self.assertEqual(radar.md_escape("`code`"), "'code'")
+
     def test_star_formatting(self):
         self.assertEqual(radar.format_stars(950), "950")
         self.assertEqual(radar.format_stars(12000), "12k")
