@@ -1148,6 +1148,7 @@ class HelperTests(unittest.TestCase):
         self.assertIn('labels: ["say \\"hi\\"","line\\nbreak"]', query)
         self.assertNotIn("line\nbreak", query)
 
+
 class LanguageQuickstartsInSyncTests(unittest.TestCase):
     ROOT = Path(__file__).resolve().parent.parent
 
